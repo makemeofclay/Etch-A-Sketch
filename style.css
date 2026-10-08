@@ -1,0 +1,12 @@
+.squares.active {
+    background-color: white;
+}
+.squares {
+    background-color: black;
+}
+#canvas {
+    aspect-ratio: 1/1;
+    max-height: 80vh;
+
+    border: 5px solid black;
+}
